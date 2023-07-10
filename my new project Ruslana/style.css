@@ -1,0 +1,38 @@
+.r {
+    color: lightblue;
+    font-size: 50px;
+}
+
+.r {
+    text-align: center;
+}
+
+.Ruslana1 {
+    width: 290px;
+    display: block;
+    margin: 0 auto;
+}
+
+.feedbacks {
+    width: 290px;
+    display: block;
+    margin: 0 auto;
+}
+
+.feedbacks1 {
+    width: 390px;
+    display: block;
+    margin: 15px;
+    margin-left: 15px;
+}
+
+.feedbacks2 {
+    width: 390px;
+    display: block;
+    margin: 15px;
+    margin-left: 200px;
+}
+
+.tu {
+    font-style: oblique
+}

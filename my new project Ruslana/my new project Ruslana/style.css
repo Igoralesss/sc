@@ -1,0 +1,141 @@
+.r {
+    color: lightblue;
+    font-size: 50px;
+    text-align: center;
+}
+
+.r {
+    text-align: center;
+}
+
+.Ruslana1 {
+    width: 290px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.feedbacks {
+    width: 290px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.feedbacks1 {
+    width: 390px;
+    display: block;
+    margin: 15px;
+    margin-left: 15px;
+    text-align: center;
+}
+
+.feedbacks2 {
+    width: 390px;
+    display: block;
+    margin: 15px;
+    margin-left: 200px;
+    text-align: center;
+}
+
+.tu {
+    font-size: 30px;
+    font-style: oblique;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.blue-square {
+    background-color: ivory;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+}
+
+
+
+.rtr {
+    font-size: 35px;
+    font-style: oblique;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.wer {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.delta {
+    font-size: 35px;
+    text-align: center;
+    background-color: rgb(185, 185, 238);
+    border-radius: 15px;
+    border: 2px solid mediumblue;
+    margin-top: 50px;
+    display: block;
+    size: 20px;
+}
+
+.Hidear {
+    background-color: rgb(236, 167, 88);
+}
+
+
+
+.englishlife {
+    text-decoration: underline;
+    text-decoration-color: white;
+    text-align: center;
+}
+
+.punktir {
+    width: 1460px;
+    height: 100px;
+
+}
+
+.pride {
+    display: inline-block;
+    margin-left: 500px;
+    text-align: center;
+}
+
+.pride1 {
+    display: inline-block;
+    text-align: center;
+    width: 570px;
+    height: 400px;
+    margin-left: 466px;
+}
+
+.childrens {
+    text-align: center;
+    color: rgb(236, 167, 88);
+    font-family: sans-serif;
+}
+
+.years {
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-style: oblique;
+}
+
+.years11 {
+    color: rgb(236, 167, 88);
+}
+
+.year {
+    color: rgb(185, 185, 238);
+}
+
+.years3 {
+    font-family: 'Times New Roman';
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 7px;
+    background-color: lightsteelblue;
+    font-style: oblique;
+}

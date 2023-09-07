@@ -92,14 +92,14 @@
 }
 
 .punktir {
-    width: 900px;
+    width: 930px;
     height: 100px;
 
 }
 
 .pride {
     display: inline-block;
-    margin-left: 276px;
+    margin-left: 256px;
     text-align: center;
 }
 
@@ -108,7 +108,7 @@
     text-align: center;
     width: 570px;
     height: 400px;
-    margin-left: 250px;
+    margin-left: 220px;
 }
 
 .childrens {

@@ -148,3 +148,33 @@
     margin-top: 70px;
     width: 450px;
 }
+.individuall{
+        text-align: center;
+        font-style: oblique;
+        text-decoration: dashed;
+}
+.individual{
+    font-family: 'Comic Sans MS', 'Comic Sans', 'cursive';
+}
+.Netf{
+    color:darkred;
+}
+.individuale{
+    font-style: oblique;
+    font-family: 'Comic Sans MS', 'Comic Sans', 'cursive' ;
+}
+.fas{
+    font-style: oblique;
+    font-family: 'Comic Sans MS', 'Comic Sans', 'cursive' ;
+    text-decoration:underline;
+    text-align: center;
+    text-decoration-color: black;
+}
+.igoralesss{
+    color:red;
+}
+.dev{
+    text-align: center;
+    display: block;
+    margin-top: 100px;
+}
